@@ -1,8 +1,8 @@
 const PI = 3.14;
 let r = 6.378e6;
-let C = 2*pi*r;
-let A = (4*pi*(r**2));
-let V = (4/3*pi*(r**3));
+let C = 2*PI*r;
+let A = (4*PI*(r**2));
+let V = (4/3*PI*(r**3));
 
 document.write('The radius of the sphere is ' + r + '.');
 document.write('<br><br>');
